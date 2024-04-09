@@ -105,12 +105,12 @@ const Home = () => {
         <div className="tw-mt-5">
           <div>
             <span className="tw-text-gray">Github:</span>{" "}
-            <span className="tw-text-sm">https://github.com/stake-house/wagyu-key-gen</span>
+            <span className="tw-text-sm">https://github.com/OpenFusionist/wagyu-key-gen</span>
           </div>
-          <div>
+          {/* <div>
             <span className="tw-text-gray">Support:</span>{" "}
             <span className="tw-text-sm">https://dsc.gg/ethstaker</span>
-          </div>
+          </div> */}
         </div>
 
         <Button
